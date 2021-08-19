@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Markdown练习</title>
+      <link href="/2021/08/19/Markdown%E7%BB%83%E4%B9%A0/"/>
+      <url>/2021/08/19/Markdown%E7%BB%83%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一篇博文-Markdown学习"><a href="#第一篇博文-Markdown学习" class="headerlink" title="第一篇博文 Markdown学习"></a>第一篇博文 Markdown学习</h1><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一片新博文"><a href="#创建一片新博文" class="headerlink" title="创建一片新博文"></a>创建一片新博文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ vim text</span><br></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span>Hello<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><blockquote><p>区块引用<br>你好哦</p><blockquote><p>嵌套引用 </p><blockquote><p>hemmo</p></blockquote></blockquote></blockquote><pre><code>void main()&#123;    printf(&quot;hello.&quot;);&#125;</code></pre><p><em>你好</em>  <em>hello</em><br><strong>what to do?</strong></p><ul><li>第一项 </li><li>第二项 </li><li>第三项</li></ul><ol><li>h</li><li>3</li><li>36</li></ol><hr><p><a href="http://www.baidu.com/">百度链接</a></p><p><code>ctrl+a</code></p><mark class="hl-label default">yes</mark> ]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发技能 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

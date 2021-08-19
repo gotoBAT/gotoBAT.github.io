@@ -1,63 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MichaelWu的Blog</title>
+  <title>MichaelWu&#39;s Blog</title>
   
-  <subtitle>你好</subtitle>
+  
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-19T03:03:37.788Z</updated>
+  <updated>2021-08-19T13:01:33.058Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Tiansheng Wu</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇文章</title>
-    <link href="http://example.com/2021/08/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2021/08/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <title>Markdown练习</title>
+    <link href="http://example.com/2021/08/19/Markdown%E7%BB%83%E4%B9%A0/"/>
+    <id>http://example.com/2021/08/19/Markdown%E7%BB%83%E4%B9%A0/</id>
     <published>2021-08-19T02:32:53.000Z</published>
-    <updated>2021-08-19T03:03:37.788Z</updated>
+    <updated>2021-08-19T13:01:33.058Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎来到 [Hexo] (<a href="https://hexo.io/)%EF%BC%81">https://hexo.io/)！</a> 这是你的第一篇博文。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一片新博文"><a href="#创建一片新博文" class="headerlink" title="创建一片新博文"></a>创建一片新博文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo</span><br></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span>Hello<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><blockquote><p>区块引用<br>你好哦</p><blockquote><p>嵌套引用 </p><blockquote><p>hemmo</p></blockquote></blockquote></blockquote><pre><code>void main()&#123;    printf(&quot;hello.&quot;);&#125;</code></pre><p><em>你好</em>  <em>hello</em><br><strong>what to do?</strong></p><ul><li>第一项 </li><li>第二项 </li><li>第三项</li></ul><ol><li>h</li><li>3</li><li>36</li></ol><hr><p><a href="http://www.baidu.com/">我的博客</a><br><code>ctrl+a</code></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一篇博文-Markdown学习"><a href="#第一篇博文-Markdown学习" class="headerlink" title="第一篇博文 Markdown学习"></a>第一篇博文 Markdown学习</h1><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一片新博文"><a href="#创建一片新博文" class="headerlink" title="创建一片新博文"></a>创建一片新博文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ vim text</span><br></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span>Hello<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><blockquote><p>区块引用<br>你好哦</p><blockquote><p>嵌套引用 </p><blockquote><p>hemmo</p></blockquote></blockquote></blockquote><pre><code>void main()&#123;    printf(&quot;hello.&quot;);&#125;</code></pre><p><em>你好</em>  <em>hello</em><br><strong>what to do?</strong></p><ul><li>第一项 </li><li>第二项 </li><li>第三项</li></ul><ol><li>h</li><li>3</li><li>36</li></ol><hr><p><a href="http://www.baidu.com/">百度链接</a></p><p><code>ctrl+a</code></p><mark class="hl-label default">yes</mark> ]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;欢迎来到 [Hexo] (&lt;a href=&quot;https://hexo.io/)%EF%BC%81&quot;&gt;https://hexo.io/)！&lt;/a&gt; 这是你的第一篇博文。&lt;/p&gt;
-&lt;h2 id=&quot;快速开始&quot;&gt;&lt;a href=&quot;#快速开始&quot; class=&quot;headerlink&quot; </summary>
-      
+    <summary type="html">Markdown的练习</summary>
     
     
     
-    
-    <category term="demo" scheme="http://example.com/tags/demo/"/>
-    
-    <category term="hello" scheme="http://example.com/tags/hello/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/08/19/hello-world/"/>
-    <id>http://example.com/2021/08/19/hello-world/</id>
-    <published>2021-08-19T02:29:06.237Z</published>
-    <updated>2021-08-19T02:29:06.237Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <category term="开发技能" scheme="http://example.com/categories/%E5%BC%80%E5%8F%91%E6%8A%80%E8%83%BD/"/>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
   </entry>
   
